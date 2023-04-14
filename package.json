@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "mongoose": "^6.1.5",
-    "puppeteer": "^13.0.1"
+    "mongoose": "^6.10.5",
+    "puppeteer": "^19.9.0"
   }
 }
